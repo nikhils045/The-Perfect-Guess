@@ -40,5 +40,4 @@ def play_game():
         else:
             print("Invalid input. Please enter 'y' or 'n'.")
 
-
 play_game()
